@@ -21,7 +21,7 @@ params:
   systems:
     - name: Website
       description: Our company public facing website
-      link: https://www.example.com/
+      link: https:tekzoom.com.br/
     - name: Helpdesk
       description: Our company customer support site
       link: https://support.example.com/
